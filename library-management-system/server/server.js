@@ -19,7 +19,7 @@ connectDB();
 // Middleware FIRST
 app.use(
   cors({
-    origin: "http://localhost:5173"
+    origin: ["http://localhost:5173", "https://vedantslibraryhub.onrender.com"],credentials: true
   })
 );
 
