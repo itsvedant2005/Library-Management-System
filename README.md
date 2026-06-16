@@ -27,5 +27,5 @@ A full-stack web application that helps manage library operations efficiently th
 -  Dashboard with Library Statistics
 -  Responsive User Interface
 
-👨‍💻 Author
+  👨‍💻 Author
 **Vedant Wankhede**
